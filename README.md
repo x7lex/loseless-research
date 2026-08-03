@@ -1,5 +1,8 @@
 ## Loseless Compression Theory 
 
+> [!WARNING]
+> This project is not yet finished, some parts of it may either be uncompleted or incorrect.
+
 Suppose we have this string of text 'aaa' and because we have limited space, we need to make it smaller.
 
 We can make this smaller by rewriting this string as '3a' making it smaller by one character.
